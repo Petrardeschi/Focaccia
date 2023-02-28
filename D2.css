@@ -1,0 +1,84 @@
+/* parte predefinita */
+
+body {
+    font-family: Georgia, serif;
+    display: block;
+    margin: auto;
+}
+
+.content {
+    margin: auto;
+    width: 50%;
+    display: block;
+}
+
+/* link colore */
+a {
+    color: #177
+}
+
+/* titolo */
+h1 {
+    text-align: center;
+}
+
+/* logo */
+.header {
+    text-align: center;
+}
+
+.logo {
+    width: 10%;
+    height: 10%;
+}
+
+/* immagine */
+.image {
+    padding: 10px;
+}
+
+#foto {
+    border-radius: 10px 10px 10px 10px;
+    width: 100%;
+    height: 100%;
+}
+
+/* sottotitolo al logo */
+#sottotitolo {
+    background-color: lightgoldenrodyellow;
+    padding: 10px;
+    border-top: solid orange 1px;
+}
+
+#fontweight {
+    font-weight: bold;
+}
+
+/* sally image */
+#sally {
+    text-align: center;
+    font-weight: lighter;
+    color: gray;
+    padding: 10px;
+}
+
+#feat {
+    color: rgb(170, 74, 74);
+    border-left: solid orange 1px;
+    padding-left: 20px;
+}
+
+/* liste */
+.liste {
+    border-top: solid #177 1px;
+    padding: 0px;
+}
+
+li {
+    padding: 10px;
+}
+
+.read_more {
+    padding: 0px;
+    margin: 0px;
+}
